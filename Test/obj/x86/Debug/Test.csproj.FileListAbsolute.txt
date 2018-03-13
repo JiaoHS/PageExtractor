@@ -1,0 +1,20 @@
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PageExtractor\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PageExtractor\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PageExtractor\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PageExtractor\Test\obj\x86\Debug\Test.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\PageExtractor\Test\obj\x86\Debug\Test.pdb
+C:\Users\Administrator\Desktop\PageExtractor\Test\bin\Debug\Test.exe
+C:\Users\Administrator\Desktop\PageExtractor\Test\bin\Debug\Test.pdb
+C:\Users\Administrator\Desktop\PageExtractor\Test\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PageExtractor\Test\obj\x86\Debug\Test.exe
+C:\Users\Administrator\Desktop\PageExtractor\Test\obj\x86\Debug\Test.pdb
+E:\PageExtractor\Test\bin\Debug\Test.exe
+E:\PageExtractor\Test\bin\Debug\Test.pdb
+E:\PageExtractor\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+E:\PageExtractor\Test\obj\x86\Debug\Test.exe
+E:\PageExtractor\Test\obj\x86\Debug\Test.pdb
+E:\系统建模\PageExtractor\Test\bin\Debug\Test.exe
+E:\系统建模\PageExtractor\Test\bin\Debug\Test.pdb
+E:\系统建模\PageExtractor\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+E:\系统建模\PageExtractor\Test\obj\x86\Debug\Test.exe
+E:\系统建模\PageExtractor\Test\obj\x86\Debug\Test.pdb
